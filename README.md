@@ -1,2 +1,2 @@
-# smple
+# sample
 my first repository
